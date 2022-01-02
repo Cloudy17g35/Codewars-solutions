@@ -1,8 +1,9 @@
 # Codewars-solutions
 
-Some of my codewars problems solutions.
-My profile:
+codewars problems solutions.
 
-https://www.codewars.com/users/Cloduy17g35
+Full profile:
+
+https://www.codewars.com/users/Cloudy17g35
 
 ✌️
